@@ -632,10 +632,10 @@
     "@types/yargs" "^16.0.0"
     chalk "^4.0.0"
 
-"@jitsu/sdk-js@^2.2.4":
-  version "2.2.4"
-  resolved "https://registry.npmjs.org/@jitsu/sdk-js/-/sdk-js-2.2.4.tgz#f624ce642c0d316ce7166e12b4d97fa4b800fa73"
-  integrity sha512-MLuhSy0JHCjeATLeCdHaPBhVN4CaS7PeOM/sqJ9FnK67lOzxiQdf/caoJWOpKTrsl9rRbs7pHm+mFnlcTt7REw==
+"@jitsu/sdk-js@^3.1.3":
+  version "3.1.3"
+  resolved "https://registry.yarnpkg.com/@jitsu/sdk-js/-/sdk-js-3.1.3.tgz#ac532ea8a72b63117e48a0b46023a0aa6992cec3"
+  integrity sha512-hFFo0PQb/zm5Qvs8pPsiJpDdOG7A1s5jc1IENWS0cIncNfbjZzi6EcK8iPhUsAXFU4g6xPpi8MHgVQtCMdocsA==
 
 "@napi-rs/triples@1.0.3":
   version "1.0.3"
