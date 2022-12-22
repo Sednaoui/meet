@@ -6163,7 +6163,7 @@ source-map-js@^0.6.2:
   resolved "https://registry.npmjs.org/source-map-js/-/source-map-js-0.6.2.tgz#0bb5de631b41cfbda6cfba8bd05a80efdfd2385e"
   integrity sha512-/3GptzWzu0+0MBQFrDKzw/DvvMTUORvgY6k6jd/VS6iCR4RDTKWH6v6WPwQoUO8667uQEf9Oe38DxAYWY5F/Ug==
 
-source-map-support@^0.5.19, source-map-support@^0.5.6:
+source-map-support@^0.5.6:
   version "0.5.19"
   resolved "https://registry.npmjs.org/source-map-support/-/source-map-support-0.5.19.tgz#a98b62f86dcaf4f67399648c085291ab9e8fed61"
   integrity sha512-Wonm7zOCIJzBGQdB+thsPar0kYuCIzYvxZwlBa87yi/Mdjv7Tip2cyVbLj5o0cFPN4EVkuTwb3GDDyUx2DGnGw==
@@ -6619,12 +6619,10 @@ tslib@^2.1.0:
   resolved "https://registry.npmjs.org/tslib/-/tslib-2.3.1.tgz#e8a335add5ceae51aa261d32a490158ef042ef01"
   integrity sha512-77EbyPPpMz+FRFRuAFlWMtmgUWGe9UOG2Z25NqCwiIjRhOf5iKGuzSe5P2w1laq+FkRy4p+PCuVkJSGkzTEKVw==
 
-tslog@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.npmjs.org/tslog/-/tslog-3.2.1.tgz#37df1301211901eb65fd61b9ad7c8554264a7699"
-  integrity sha512-m8wAtox9wt+h6UDcN1WAQnYwRDOGhMIOp+GAuuufo8T8qKuu726i2W3r47BrA69goVOwgUkp5YwDTvAxTktvPg==
-  dependencies:
-    source-map-support "^0.5.19"
+tslog@^4.6.0:
+  version "4.6.0"
+  resolved "https://registry.yarnpkg.com/tslog/-/tslog-4.6.0.tgz#16f318f7d5b2dfc122fbdd4b5b7465434df678e5"
+  integrity sha512-/dbAKIJiZAX9dfQz8hewPiWB2UxeJorkWWIBbw0nFJDzJqUNZWYA/rdHJlAgfWKyZLQy0WQ6U/rd6YoToZis0A==
 
 tsutils@^3.21.0:
   version "3.21.0"
